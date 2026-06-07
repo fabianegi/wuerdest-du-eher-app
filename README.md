@@ -1,4 +1,4 @@
-# Würdest du eher …? -
+# Würdest du eher …? 
 
 Live-Abstimmungs-App im Stil von Kahoot und Mentimeter für „Würdest du eher …?"-Dilemmafragen. Der Host projiziert die Beamer-Ansicht, die Mitspielenden treten per QR-Code oder sechsstelligem Code vom Handy bei. Die Synchronisation läuft in Echtzeit über Supabase.
 
